@@ -1,3 +1,3 @@
-module algo
+module datalgo
 
 go 1.16
